@@ -63,6 +63,7 @@ endmodule
 
 ## Output:
 ##Logic gates:
+
 Half subtractor:
 
 ![halfsub](https://user-images.githubusercontent.com/120115840/229187128-29dd3607-ce3d-4e7a-808b-7a05e3ccc7aa.png)
